@@ -1,0 +1,2 @@
+Pillow==6.2.1
+XlsxWriter==1.2.2
